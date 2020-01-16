@@ -1,1 +1,4 @@
 z3-solver
+numpy
+matplotlib
+tensorflow
